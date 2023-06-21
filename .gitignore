@@ -57,75 +57,81 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
-crashlytics-build.properties
-UntitledFoxSpirit/Assets/Animations/Player/WolfQueen_Anim_SoftLanding.fbx
+crashlytics-build.properties
+UntitledFoxSpirit/Assets/Animations/Player/WolfQueen_Anim_SoftLanding.fbx
+
+UntitledFoxSpirit/Assets/Animations/Player/WolfQueen_Anim_SoftLanding.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack1.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack1.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack2.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack2.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Death.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Death.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_DynamicAttack1.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_DynamicAttack1.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Walkcycle.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Walkcycle.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/IdleCycleTest_Hornet.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/IdleCycleTest_Hornet.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/WOTW_HornetRig.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet 1/WOTW_HornetRig.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack1.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack1.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack2.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack2.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Death.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Death.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_DynamicAttack1.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_DynamicAttack1.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Walkcycle.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Walkcycle.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet/IdleCycleTest_Hornet.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet/IdleCycleTest_Hornet.fbx.meta
+
+UntitledFoxSpirit/Assets/Art/Hornet/WOTW_HornetRig.fbx
+
+UntitledFoxSpirit/Assets/Art/Hornet/WOTW_HornetRig.fbx.meta
+
+UntitledFoxSpirit/Assets/Prefab.meta
+
+UntitledFoxSpirit/Assets/Prefab/Hornet.prefab
+
+UntitledFoxSpirit/Assets/Prefab/Hornet.prefab.meta
+
+UntitledFoxSpirit/Assets/Prefab/Miniboss.prefab
+
+UntitledFoxSpirit/Assets/Prefab/Miniboss.prefab.meta
+
+UntitledFoxSpirit/Assets/Scenes/LevelDesignGreybox.meta
 
-UntitledFoxSpirit/Assets/Animations/Player/WolfQueen_Anim_SoftLanding.fbx.meta
+UntitledFoxSpirit/Assets/Rowlan/
 
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack1.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack1.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack2.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Attack2.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Death.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Death.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_DynamicAttack1.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_DynamicAttack1.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Walkcycle.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/Hornet_Anim_Walkcycle.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/IdleCycleTest_Hornet.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/IdleCycleTest_Hornet.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/WOTW_HornetRig.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet 1/WOTW_HornetRig.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack1.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack1.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack2.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Attack2.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Death.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Death.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_DynamicAttack1.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_DynamicAttack1.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Walkcycle.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet/Hornet_Anim_Walkcycle.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet/IdleCycleTest_Hornet.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet/IdleCycleTest_Hornet.fbx.meta
-
-UntitledFoxSpirit/Assets/Art/Hornet/WOTW_HornetRig.fbx
-
-UntitledFoxSpirit/Assets/Art/Hornet/WOTW_HornetRig.fbx.meta
-
-UntitledFoxSpirit/Assets/Prefab.meta
-
-UntitledFoxSpirit/Assets/Prefab/Hornet.prefab
-
-UntitledFoxSpirit/Assets/Prefab/Hornet.prefab.meta
-
-UntitledFoxSpirit/Assets/Prefab/Miniboss.prefab
-
-UntitledFoxSpirit/Assets/Prefab/Miniboss.prefab.meta
-
-UntitledFoxSpirit/Assets/Scenes/LevelDesignGreybox.meta
+UntitledFoxSpirit/Assets/PathCreator/Examples/Materials/Road Texture.png
